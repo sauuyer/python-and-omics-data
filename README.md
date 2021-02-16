@@ -5,6 +5,10 @@ This class is designed to help you conceptualize how to design Python scripts th
 If you need a Python environment to use during this class (if have not installed Python before the class has started, or you are not comfortable with the Python console, or your integrated development environment, etc.), please follow the preceeding button to launch a blank Google Collab notebook.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sauuyer/python-and-omics-data/blob/master/workbook-python-and-omics-data.ipynb) 
 
-To learn more about Python, generally, view the resources for another medical library class here: https://github.com/sauuyer/getting-started-with-python
+To learn more about Python, generally, view the resources for another medical library class here: 
+* Getting started with Python, a nonprogramming introduction: https://github.com/sauuyer/getting-started-with-python
+* Introduction to Python (containing a text book guide and hands-on exercises): https://github.com/CWML/intro-to-python-cwml-workshop
+li
+* View upcoming virtual classes here: https://library.medicine.yale.edu/research-data/
 
 If you are part of the Yale communicty, please email medicaldata@yale.edu if you have questions.
