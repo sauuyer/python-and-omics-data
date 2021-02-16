@@ -11,4 +11,4 @@ To learn more about Python, generally, view the resources for another medical li
 li
 * View upcoming virtual classes here: https://library.medicine.yale.edu/research-data/
 
-If you are part of the Yale communicty, please email medicaldata@yale.edu if you have questions.
+Please email medicaldata@yale.edu if you have questions about the content of this repo.
